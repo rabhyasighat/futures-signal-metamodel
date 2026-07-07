@@ -1,7 +1,7 @@
 
 # Financial Machine Learning Meta-Model for Futures Trading
 
-*A graduate-level financial machine learning project completed as part of the MSc Risk Management & Financial Engineering at Imperial College London.*
+*A financial machine learning project completed as part of the MSc Risk Management & Financial Engineering at Imperial College London.*
 
 ## Overview
 
